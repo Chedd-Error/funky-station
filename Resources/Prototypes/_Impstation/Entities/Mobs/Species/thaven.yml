@@ -84,6 +84,9 @@
       Unsexed: UnisexThaven
   - type: Speech
     speechSounds: Alto
+    allowedEmotes: ['TailWhip']
+  - type: BodyEmotes
+    soundsId: ThavenBodyEmotes
   - type: HumanoidAppearance
     species: Thaven
     hideLayersOnEquip:

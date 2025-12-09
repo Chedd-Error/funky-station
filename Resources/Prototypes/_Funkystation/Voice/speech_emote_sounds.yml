@@ -1,0 +1,19 @@
+- type: emoteSounds
+  id: ThavenBodyEmotes
+  sounds:
+    TailWhip:
+      collection: TowelWhip
+      params:
+        variation: 0.125
+    Clap:
+      collection: Claps
+    ClapSingle:
+      collection: ClapSingle
+    Snap:
+      collection: Snaps
+      params:
+        volume: -6
+    Salute:
+      collection: Salutes
+    Blink: # Imp
+      path: /Audio/_Funkystation/Voice/Thaven/wet_cartoon_blinking.ogg

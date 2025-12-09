@@ -22,3 +22,24 @@
   - gurgled
   - gurgling
 
+- type: emote #thaven tail whip
+  id: TailWhip
+  name: chat-emote-name-tail-whip
+  category: Hands
+  available: false
+  icon: Interface/Emotes/tailslap.png
+  whitelist:
+    components:
+    - Hands
+  chatMessages: ["chat-emote-msg-tail-whip"]
+  chatTriggers:
+    - whip
+    - whips
+    - whipping
+    - whipped
+    - whip tail
+    - whips tail
+    - whips their tail
+    - whips her tail
+    - whips his tail
+    - whips its tail
